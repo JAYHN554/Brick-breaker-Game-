@@ -9,7 +9,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/brick-breaker-game.git
+git clone https://github.com/JAYHN554/brick-breaker-game.git
 cd brick-breaker-game
 Install the required dependencies:
 bash
